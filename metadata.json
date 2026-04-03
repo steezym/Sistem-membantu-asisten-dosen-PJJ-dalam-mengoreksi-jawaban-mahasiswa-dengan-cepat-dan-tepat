@@ -1,8 +1,5 @@
 {
   "name": "Asisten Dosen AI",
   "description": "Aplikasi asisten dosen untuk memeriksa jawaban algoritma dan pseudocode mahasiswa menggunakan AI.",
-  "requestFramePermissions": [
-    "camera",
-    "display-capture"
-  ]
+  "requestFramePermissions": []
 }
